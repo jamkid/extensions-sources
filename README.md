@@ -11,4 +11,4 @@ Join the [Discord](https://discord.gg/rmf6jQpMU9) for support and more sources!
 | Source Type | Description |          Link |
 | ---        |    ----   |         --- |
 | Primary      | Updated primary sources for Paperback      | [Click me!](https://thenetsky.github.io/extensions-sources/primary/)    |
-| NSFW   | Update nsfw sources for Paperback     |  [Click me!](https://thenetsky.github.io/extensions-sources/nsfw/)    |
+
